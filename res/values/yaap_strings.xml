@@ -99,7 +99,7 @@
     <string name="designer_name">Ahmed Harhash</string>
     <string name="designer_tg" translatable="false">https://t.me/Lacentix</string>
     <string name="designer2_name">The Knight</string>
-    <string name="designer2_tg" translatable="false">https://t.me/IamTheKnight</string>
+    <string name="designer2_tg" translatable="false">https://t.me/i_TheKnight</string>
 
     <!-- Statusbar network traffic monitor -->
     <string name="network_traffic_state_title">Network traffic display</string>
@@ -249,10 +249,6 @@
     <string name="statusbar_clock_position_center">Center</string>
     <string name="statusbar_clock_position_right">Right</string>
 
-    <!-- Keyguard force small clock -->
-    <string name="lockscreen_small_clock_title">Force small clock</string>
-    <string name="lockscreen_small_clock_summary">Don\'t switch to the big clock when there are no notifications</string>
-
     <!-- SystemUI tuner -->
     <string name="ui_tuner_title">SystemUI tuner</string>
 
@@ -261,5 +257,9 @@
     <string name="volume_key_cursor_control_disabled">Disabled</string>
     <string name="volume_key_cursor_control_left">up - left, down - right</string>
     <string name="volume_key_cursor_control_right">up - right, down - left</string>
+
+    <!-- Brightness control -->
+    <string name="status_bar_brightness_control_title">Brightness control</string>
+    <string name="status_bar_brightness_control_summary">Adjust brightness by sliding across the status bar</string>
 
 </resources>
